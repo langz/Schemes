@@ -1,5 +1,5 @@
-<h1>MobileSchemes</h1>
-<p>Some simple HTML-tags for web-development on mobilephones</p>
+<h1>Schemes</h1>
+<p>Some simple HTML-tags for web-development, mainly on mobilephones</p>
 <p>Used several schemes from <a target="_blank" href="http://en.wikipedia.org/wiki/URI_scheme">URI-schemes</a>
 and <a target="_blank" href="https://developer.apple.com/library/ios/featuredarticles/iPhoneURLScheme_Reference/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007899-CH1-SW1">Apple URL Schemes</a>
 </p>
